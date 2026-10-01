@@ -1,0 +1,5 @@
+// OTG overlay for angelica (Redmi 9C)
+&usb0 {
+    dr_mode = "otg";
+    status = "okay";
+};

@@ -129,3 +129,5 @@
 };
 /* NFC end */
 
+
+#include "otg-overlay.dtsi"
